@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resume Matcher</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles2.css') }}">
+    
+</head>
+<body>
+    <h1 class="title">FitJob</h1>
+    <div class="container">
+
+
+    <form id="uploadForm" enctype="multipart/form-data">
+        <div>
+            <label>Upload Resume (TXT or DOCX):</label>
+            <input type="file" name="resume" class="resume" accept=".txt,.docx" required>
+        </div>
+        <div >
+            <label>Job Description:</label><br>
+            <textarea name="job_description" class="jobdescription"  required></textarea>
+        </div>
+        <button type="submit">Upload and Analyze</button>
+        <div class="result"></div>
+    </form>
+</div>
+<footer>©2025 CHIRAG SETHI RIGHTS</footer>
+
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>

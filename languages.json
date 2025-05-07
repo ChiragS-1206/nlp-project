@@ -1,0 +1,36 @@
+{
+    "skills": [
+      
+      "Python", "Java", "JavaScript", "C", "C++", "Ruby", "Swift", "Go",
+      "PHP", "C#", "Rust", "Kotlin", "TypeScript", "SQL", "HTML", "CSS",
+      "R", "MATLAB", "Perl", "Lua", "Dart", "Scala", "Objective-C", "Shell",
+      "PowerShell", "Haskell", "Elixir", "Assembly", "F#", "VB.NET",
+      "Ada", "Apex", "APL", "Arduino", "Awk", "Bash", "Basic", "Clojure",
+      "COBOL", "Crystal", "D", "Delphi", "Erlang", "Forth", "Fortran",
+      "Groovy", "Hack", "Haxe", "Icon", "J", "Julia", "LabVIEW", "Lisp",
+      "Logo", "M", "Nim", "OCaml", "Pascal", "Prolog", "Racket", "RPG",
+      "SAS", "Scheme", "Scratch", "Smalltalk", "Solidity", "Tcl", "VBA",
+      "Verilog", "VHDL", "Visual Basic", "Wolfram", "XQuery", "Zig",
+      
+      "Flask", "Django", "FastAPI", "Spring", "Spring Boot", "Hibernate",
+      "React", "Angular", "Vue.js", "Node.js", "Express.js", "ASP.NET",
+      "Ruby on Rails", "Laravel", "Symfony", "CakePHP", "Svelte", "Blazor",
+      "Phoenix", "Ember.js", "Backbone.js", "Flutter", "React Native",
+      "Ionic", "Xamarin",
+    
+      "NumPy", "Pandas", "TensorFlow", "PyTorch", "Scikit-learn", "Keras",
+      "Matplotlib", "Seaborn", "Plotly", "jQuery", "D3.js", "Lodash",
+      "Moment.js", "RxJS", "Redux", "Boost", "OpenCV", "NLTK", "SpaCy",
+      "Requests", "BeautifulSoup", "SQLAlchemy", "Pygame", "SciPy",
+      
+      "PostgreSQL", "MySQL", "MongoDB", "SQLite", "Redis", "Oracle",
+      "MariaDB", "Cassandra", "DynamoDB", "Docker", "Kubernetes", "Git",
+      "GitHub", "GitLab", "Bitbucket", "Jenkins", "Travis CI", "CircleCI",
+      "Ansible", "Terraform", "AWS", "Azure", "Google Cloud", "Heroku",
+      "Firebase", "Nginx", "Apache", "Prometheus", "Grafana", "Elasticsearch",
+      "Kafka", "RabbitMQ", "CI/CD", "Agile", "Scrum", "Kanban", "REST API",
+      "GraphQL", "SOAP", "OAuth", "JWT", "Microservices", "Serverless",
+      "Linux", "Windows Server", "Bash", "PowerShell", "Maven", "Gradle",
+      "Webpack", "Vite", "Parcel"
+    ]
+  }
